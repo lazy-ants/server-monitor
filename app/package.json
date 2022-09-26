@@ -37,7 +37,7 @@
         "kalmanjs": "1.1.0",
         "nest-schedule": "0.4.6",
         "node-os-utils": "^1.0.7",
-        "pm2": "^4.1.1",
+        "pm2": "^5.2.0",
         "reflect-metadata": "^0.1.12",
         "rimraf": "^2.6.2",
         "rxjs": "^6.3.3",
